@@ -1,0 +1,9 @@
+How to add code to github?
+	
+	1.create file on your local machine
+	2.go to location of that folder using command line (eg. Cd Desktop/..)
+	3.git init
+	4.git add filename.extension
+	5.git commit -m "first commit"
+	6.git remote add origin https://github.com/eg/eg.git
+	7.git push -u origin master	
